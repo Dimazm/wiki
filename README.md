@@ -10,3 +10,4 @@
 
 ## Process flow 
 [How to perform a technical specification?](https://github.com/rakavets/wiki/blob/master/perform-technical-specification.md)
+[Abbreviations](https://github.com/rakavets/wiki/blob/master/abbreviations.md)
