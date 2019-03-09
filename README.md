@@ -11,3 +11,4 @@
 ## Help
 - [How to perform a technical specification?](perform-technical-specification.md)
 - [Abbreviations](abbreviations.md)
+- [Git](git.md)
