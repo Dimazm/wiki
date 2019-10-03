@@ -1,5 +1,5 @@
 # Command for Git
-![Git basic operation](img/git-basic-operations.webp)
+![Git basic operation](resource/img/git-basic-operations.webp)
 
 ## Description
 
