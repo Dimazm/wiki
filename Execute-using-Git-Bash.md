@@ -11,14 +11,7 @@
     - `c:` - перейти на диск `c`
 
 ## Workflow
-0. Если небходимо клонируем репозиторий
-0. Если необходимо конфигурируем `git`
-0. Если необходимо обновляем репозиторий (`remote repository` -> `local repository`)
-
-1. С помощью `IntelliJ IDEA` выполняем задание (`working directory`)
-2. Добавляем файлы для отслеживания с помощью `git` (`working directory` -> `staging area`)
-3. Фиксируем изменения / Делаем `commit` (`staging area` -> `local repository`)
-4. Загружае изменения на `GitHub` (`local repository` -> `remote repository`)
+![Git basic operation](resource/img/execute-using-git-bash.svg)
 
 ### Как копировать свой репозиторий на компьютер когда его нет на компьютере?
 
