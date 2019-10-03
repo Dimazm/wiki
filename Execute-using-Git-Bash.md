@@ -13,26 +13,26 @@
 ## Workflow
 ![Git basic operation](resource/img/execute-using-git-bash.svg)
 
-### Как копировать свой репозиторий на компьютер когда его нет на компьютере?
+### Как копировать remote repository когда его нет на компьютере?
 
 *Необходимо делать единожды*
 
-`git clone https://github.com/rakovets/wiki.git`
+`git clone https://github.com/GITHUB_USERNAME/GITHUB_REPOSITORY.git`
 
-где `https://github.com/rakovets/wiki.git` - ссылка на НУЖНЫЙ репозиторий
+где `https://github.com/GITHUB_USERNAME/GITHUB_REPOSITORY.git` - ссылка на НУЖНЫЙ репозиторий
 
 
 ### Как сконфигурировать git
 
 *Необходимо делать единожды*
 
-`git config --global user.name 'Dmitry Rakovets'`
+`git config --global user.name 'YOUR FULLNAME'`
 
-где `Dmitry Rakovets` - ваше имя
+где `YOUR FULLNAME` - ваше имя и фамилия
 
-`git config --global user.email 'dmitryrakovets@gmail.com'`
+`git config --global user.email 'YOUR_EMAIL'`
 
-где `dmitryrakovets@gmail.com` - ваш email
+где `YOUR_EMAIL` - ваш email
 
 ### Как посмотреть состояние `working directory`
 
@@ -45,9 +45,9 @@
 
 ### Как переключать `branch`
 
-`git branch branch_name`
+`git checkout BRANCH_NAME`
 
-где `branch_name` - имя `branch` в который необходимо переключиться
+где `BRANCH_NAME` - имя `branch` в который необходимо переключиться
 
 ### Как добавить файлы из `working directory` в `staging area` для предстоящего `commit` 
 
@@ -57,24 +57,24 @@
 
 ### Как добавить файлы из `staging area` в `local repository` с определенным заголовком 
 
-`git commit -m "Message"`
+`git commit -m "YOUR_COMMIT_MEASSAGE"`
 
-где `Message` - залоговок который НУЖНО использовать
+где `YOUR_COMMIT_MEASSAGE` - залоговок который НУЖНО использовать
 
 ### Как отправить изменения из `local repository` в `remote repository`
 
-`git push origin`
+`git push GITHUB_REPOSITORY`
 
 ### Как обновить текущий `local repository`, если произошли изменения в `remote repository`
 
-`git fetch origin`
+`git fetch GITHUB_REPOSITORY`
 
-`git pull origin`
+`git pull GITHUB_REPOSITORY`
 
-где `origin` - краткое имя `remote repository` с которого необходимо вытянуть изменения
+где `GITHUB_REPOSITORY` - краткое имя `remote repository` с которого необходимо вытянуть изменения
 
 ### Как добавит `remote repository` ментора
 
-`git remote add rakovets https://github.com/rakovets/wiki.git`
+`git remote add GITHUB_USERNAME https://github.com/GITHUB_USERNAME/GITHUB_REPOSITORY.git`
 
-где `https://github.com/rakovets/wiki.git` - ссылка на НУЖНЫЙ репозиторий
+где `https://github.com/GITHUB_USERNAME/GITHUB_REPOSITORY.git` - ссылка на НУЖНЫЙ репозиторий
