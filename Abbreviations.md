@@ -1,3 +1,5 @@
+## Hardware
+
 `BIOS` - Basic Input/Output System
 
 `CHS` - Cylinder Head Sector
@@ -23,6 +25,9 @@
 `VFS` - Virtual File System
 
 `UEFI` - Unified Extensible Firmware Interface
+
+
+## Software
 
 `UUID` - Universally Unique Identifier
 
