@@ -5,6 +5,7 @@
 
 
 ## Programming
+- [Системы счисления](number-systems)
 - [Структуры данных](data-structures)
 
 
