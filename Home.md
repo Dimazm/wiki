@@ -4,6 +4,10 @@
 - [Design Patterns](design-patterns)
 
 
+## Programming
+- [Структуры данных](data-structures)
+
+
 ## Help
 - Как выполнять задания, используя:
     - [GitHub UI](execute-using-github-ui)
