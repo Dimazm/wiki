@@ -6,6 +6,7 @@
 
 ## Programming
 - [Системы счисления](number-systems)
+- [Концепции ООП](oop-concepts)
 - [Структуры данных](data-structures)
 
 
