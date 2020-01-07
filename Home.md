@@ -10,6 +10,12 @@
 - [Структуры данных](data-structures)
 
 
+## Web
+1. [Введение в Web](intro-to-web)
+1. [Сетевое взаимодействие](networking)
+1. [HTTP протокол](http-protocol)
+
+
 ## Help
 - Как выполнять задания, используя:
     - [GitHub UI](execute-using-github-ui)
