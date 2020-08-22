@@ -1,5 +1,5 @@
 # Command for Git
-![Git basic operation](res/img/git-basic-operations.webp)
+![Git basic operation](/img/git-basic-operations.webp)
 
 ## Description
 
@@ -11,7 +11,7 @@
     - `c:` - перейти на диск `c`
 
 ## Workflow
-![Git basic operation](res/img/execute-using-git-bash.svg)
+![Git basic operation](/img/execute-using-git-bash.svg)
 
 ### Как копировать remote repository когда его нет на компьютере?
 
