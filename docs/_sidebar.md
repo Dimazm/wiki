@@ -1,4 +1,8 @@
-* [Wiki](/README)
+* [HOME](/README)
+* Courses
+    * [Course "Java Basic"](https://wiki-java-basic.dmitryrakovets.com)
+    * [Course "Java Web"](https://wiki-java-web.dmitryrakovets.com)
+    * [Course "Java with Jakarta EE"](https://wiki-java-jakarta-ee.dmitryrakovets.com)
 * Best Practice
     * [Design Patterns](/common/design-patterns)
 * Programming
