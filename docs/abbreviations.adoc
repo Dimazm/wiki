@@ -1,5 +1,17 @@
 = Abbreviations
 
+== Common
+
+* `DOM` - Document Object Model
+* `DTD` - Document Type Definition
+* `SGML` - Standard Generalized Markup Language
+* `XML` - eXtensible Markup Language
+* `XPath` - XML Path Language
+* `XSD` - XML Schema Definition
+* `XSL` - eXtensible Stylesheet Language
+* `XSLT` - eXtensible Stylesheet Language Transformations
+* `W3C` - World Wide Web Consortium
+
 == Hardware
 
 * `BIOS` - Basic Input/Output System
